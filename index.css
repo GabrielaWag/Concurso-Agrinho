@@ -1,7 +1,3 @@
-#logo {
-    width: 25%
-}
-
 header {
     background: #bbbb;
     padding: 20px 0;
@@ -11,6 +7,9 @@ header {
     position: relative;
     width: 100px;
     margin: 0 auto;
+}
+#logo {
+    width: 25%
 }
 
 nav {
